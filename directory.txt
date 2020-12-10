@@ -1,0 +1,16 @@
+bin
+opt
+root
+tmp
+usr
+var
+run
+etc
+usr/inbox 
+usr/project  
+usr/document
+usr/picture 
+usr/video 
+usr/music 
+usr/download 
+usr/application
